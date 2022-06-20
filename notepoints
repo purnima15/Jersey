@@ -1,0 +1,12 @@
+@Path
+we map the path of url using @Path annotation.
+
+@Produces: 
+to show which type of data will method return.
+
+@Consumes: 
+to show which type of data will method consume.
+
+@PathParam:
+to mention the the parameter to the method passed from url.
+
